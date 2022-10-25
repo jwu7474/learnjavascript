@@ -54,8 +54,6 @@ console.log(rank3(5, 2, 9)); //[2,5,9]
 console.log(rank3(2, 9, 5)); //[2,5,9]
 console.log(rank3(2, 5, 9)); //[2,5,9]
 
-// console.log("Jason".charAt(0));
-
 // const firstLetter = (arrOfStr) => {
 //   let sum = 0;
 //   for (i = 0; i < arrOfStr.length; i++) {

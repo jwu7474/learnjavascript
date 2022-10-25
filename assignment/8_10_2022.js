@@ -64,7 +64,6 @@ console.log(rank3(2, 5, 9)); //[2,5,9]
 //   return sum;
 // };
 // console.log(firstLetter(["asd", "sdx", "wed"])); //asd
-// console.log(firstLetter(["cas", "asdx", "bwe"])); //cab
 
 // const eachOne = (str) => {
 //   var splitString = str.split("");
